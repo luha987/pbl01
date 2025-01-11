@@ -4,6 +4,11 @@
 <h2>Nama Anggota</h2> 
 <table class="table table-striped">
         <tr>
+            <th>No</th>
+            <th>NAMA</th>
+            <th>NIM</th>
+        </tr>
+        <tr>
             <td>1.</td>
             <td>Nuraji Dwi Setiawan  </td>
             <td>211080200003</td>
